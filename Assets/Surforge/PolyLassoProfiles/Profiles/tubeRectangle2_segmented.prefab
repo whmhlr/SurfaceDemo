@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &142064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 429220}
+  - component: {fileID: 11496032}
+  m_Layer: 0
+  m_Name: tubeRectangle2_segmented
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &429220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11496032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c146cd5f8bc7bbf47a866c42d3f772cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 167790763a8bd8349bf69ef2cdf35178, type: 3}
+  iconLite: {fileID: 2800000, guid: d6bba1bc96985af46bde612147b0261d, type: 3}
+  bevelAmount: 0.5
+  bevelSteps: 2
+  offsets:
+  - 0
+  heights:
+  - 0.2
+  iconColor: {r: 1, g: 0.65400004, b: 0, a: 1}
+  isFloater: 0
+  isTube: 1
+  isOpen: 0
+  thickness: 0.5
+  section:
+  - {x: -0.96, y: -0.4}
+  - {x: -1, y: -0.36}
+  - {x: -1, y: 0.36}
+  - {x: -0.96, y: 0.4}
+  - {x: 0.96, y: 0.4}
+  - {x: 1, y: 0.36}
+  - {x: 1, y: -0.36}
+  - {x: 0.96, y: -0.4}
+  isAdaptive: 1
+  adaptiveStep: 0.1
+  lengthOffsets0:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0.5
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  lengthOffsets1: []
+  lengthOffsets2: []
+  heightOffsets0: []
+  heightOffsets1: []
+  heightOffsets2: []
+  repeatSize: 0
+  lengthOffsetOrder: 
+  heightOffsetOrder: 
+  edgeWiseOffset: 0
+  lengthWiseOffset: 0
+  offsetMinEdge: 0
+  corner: {fileID: 0}
+  childProfileVerticalOffsets: []
+  childProfileDepthOffsets: []
+  childProfileHorisontalOffsets: 
+  childProfileMatGroups: 
+  childProfileShapes: []
+  followerProfiles: []
+  followerProfileVerticalOffsets: []
+  followerProfileDepthOffsets: []
+  followerProfileMatGroups: 
+  cutoff: {fileID: 0}
+  cutoffTiling: {x: 0, y: 0}
+  bumpMap: {fileID: 0}
+  bumpMapIntensity: 1
+  bumpMapTiling: {x: 0, y: 0}
+  aoMap: {fileID: 0}
+  aoMapIntensity: 0
+  randomUvOffset: 0
+  stoneType: 0
+  allowIntersections: 0
+  overlapIntersections: 0
+  overlapAmount: 0
+  usedForOverlapping: 0
+  overlapStartInvert: 0
+  curveUVs: 0
+  isScatter: 0
+  scatterStepsX: []
+  scatterStepsZ: []
+  isChain: 0
+  isScalePattern: 0
+  chainCrossAngle: 0
+  scatterObjects: []
+  scatterObjectsScales: []
+  isShuffleScatterObjects: 0
+  scatterRandomDegrees: []
+  scatterRandomOffsets: []
+  scatterRandomScales: []
+  scatterFirstObject: {fileID: 0}
+  scatterLastObject: {fileID: 0}
+  skipFirstScatter: 0
+  skipLastScatter: 0
+  scatterTwistAngle: 0
+  isScatterRandomizeAppearance: 0
+  scatterAppearRandomSeed: 0
+  scatterAppearRandomMin: 0
+  scatterAppearRandomMax: 0
+  scatterTRSRandomSeed: 0

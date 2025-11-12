@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &184458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 402690}
+  - component: {fileID: 3352548}
+  - component: {fileID: 2356294}
+  - component: {fileID: 11468104}
+  - component: {fileID: 6452750}
+  m_Layer: 0
+  m_Name: chippedBlock06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &402690
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184458}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3352548
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184458}
+  m_Mesh: {fileID: 4300010, guid: 2cfa55803fa929a4e83c9efef07ddee0, type: 3}
+--- !u!23 &2356294
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184458}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6e02e05ad4a07a247a3772cbec62d663, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!114 &11468104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a4e2a3641237f846aabd77ce17f47a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 4361cde7cfad70241a9a97e74c1f2b40, type: 3}
+  iconLite: {fileID: 2800000, guid: 9fdfe858bbf5a584f85c2811c257631a, type: 3}
+  isText: 0
+  seamlessInstances: []
+  surforgeSettings: {fileID: 0}
+  bumpMap: {fileID: 2800000, guid: a7827432278f33347a39119f8437e0a5, type: 3}
+  bumpMapIntensity: 0.5
+  bumpMapTiling: {x: 1, y: 1}
+  aoMap: {fileID: 0}
+  aoMapIntensity: 1
+  randomUvOffset: 1
+  shuffleArray:
+  - {fileID: 11468104, guid: 845b6405fcc7ed14fa1fb7d8f4cb97d6, type: 3}
+  - {fileID: 11468104, guid: 15ab07724ae81bb4a86f6f6773839e94, type: 3}
+  - {fileID: 11468104, guid: c8d260857b493e54daa3ca1ff24aeebe, type: 3}
+  - {fileID: 11468104, guid: e29f318ad8abc3f4c8d61bcdb0fe1f5a, type: 3}
+  - {fileID: 11468104, guid: b3697cbdc711eeb42b21c65f3a54d6af, type: 3}
+  - {fileID: 11468104, guid: 48903b666ab2e784bb42a82bf6514b28, type: 3}
+  - {fileID: 11468104, guid: 32222436c27c30a4399355a6c99e5031, type: 3}
+  - {fileID: 11468104, guid: c4621e2e9a63db74f99d3be8e7a26c9a, type: 3}
+  - {fileID: 11468104, guid: b814c1a3fcd7538499fd02fa1cc4bb68, type: 3}
+  - {fileID: 11468104, guid: c3cb0a0d2c2ffae479045f3fc8f57e87, type: 3}
+  - {fileID: 11468104, guid: 74b28d70d0022f848b8d54c26d3b78e9, type: 3}
+  - {fileID: 11468104, guid: cc7b40cfb3b3d5741ac701d6d6d0b384, type: 3}
+  - {fileID: 11468104, guid: e08f6cb297eaa4b4982c01716dca7711, type: 3}
+  flipWhileShuffle: 0
+  shuffleScale: 0
+  shuffleRotation: 0
+  shuffleRotation90: 0
+  shuffleRotation180: 1
+  shuffleMeshes: []
+  shuffleBumpMaps: []
+  shuffleBumpMapsIntensity: []
+  shuffleAoMaps: []
+  aoMapsIntensity: []
+  aoMapsIntensityRandomRange: []
+  childrenHidden: 0
+  autoShuffle: 0
+  isProxy: 0
+  instanceID: 235320
+--- !u!64 &6452750
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184458}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300010, guid: 2cfa55803fa929a4e83c9efef07ddee0, type: 3}

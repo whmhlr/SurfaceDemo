@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: fc1f32e5be3468344a10e0ceab9b1ba4
+timeCreated: 1635586170
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cracks01
+    100004: cracks20
+    100006: cracksSimple01
+    100008: cracksSimple02
+    100010: cracksSimple03
+    100012: cracksSimple04
+    100014: cracks02
+    100016: cracks03
+    100018: cracks04
+    100020: cracks05
+    100022: cracks06
+    100024: cracks07
+    100026: cracks08
+    100028: cracks09
+    100030: cracks10
+    100032: cracksSimple05
+    100034: cracksSimple06
+    100036: cracksSimple07
+    100038: cracksSimple08
+    100040: cracksSimple09
+    100042: cracksSimple10
+    400000: //RootNode
+    400002: cracks01
+    400004: cracks20
+    400006: cracksSimple01
+    400008: cracksSimple02
+    400010: cracksSimple03
+    400012: cracksSimple04
+    400014: cracks02
+    400016: cracks03
+    400018: cracks04
+    400020: cracks05
+    400022: cracks06
+    400024: cracks07
+    400026: cracks08
+    400028: cracks09
+    400030: cracks10
+    400032: cracksSimple05
+    400034: cracksSimple06
+    400036: cracksSimple07
+    400038: cracksSimple08
+    400040: cracksSimple09
+    400042: cracksSimple10
+    2300000: //RootNode
+    2300002: cracks01
+    2300004: cracks20
+    2300006: cracksSimple01
+    2300008: cracksSimple02
+    2300010: cracksSimple03
+    2300012: cracksSimple04
+    2300014: cracks02
+    2300016: cracks03
+    2300018: cracks04
+    2300020: cracks05
+    2300022: cracks06
+    2300024: cracks07
+    2300026: cracks08
+    2300028: cracks09
+    2300030: cracks10
+    2300032: cracksSimple05
+    2300034: cracksSimple06
+    2300036: cracksSimple07
+    2300038: cracksSimple08
+    2300040: cracksSimple09
+    2300042: cracksSimple10
+    3300000: //RootNode
+    3300002: cracks01
+    3300004: cracks20
+    3300006: cracksSimple01
+    3300008: cracksSimple02
+    3300010: cracksSimple03
+    3300012: cracksSimple04
+    3300014: cracks02
+    3300016: cracks03
+    3300018: cracks04
+    3300020: cracks05
+    3300022: cracks06
+    3300024: cracks07
+    3300026: cracks08
+    3300028: cracks09
+    3300030: cracks10
+    3300032: cracksSimple05
+    3300034: cracksSimple06
+    3300036: cracksSimple07
+    3300038: cracksSimple08
+    3300040: cracksSimple09
+    3300042: cracksSimple10
+    4300000: cracks01
+    4300002: cracks20
+    4300004: cracksSimple01
+    4300006: cracksSimple02
+    4300008: cracksSimple03
+    4300010: cracksSimple04
+    4300012: cracks03
+    4300014: cracks02
+    4300016: cracks04
+    4300018: cracks05
+    4300020: cracks06
+    4300022: cracks10
+    4300024: cracks09
+    4300026: cracks08
+    4300028: cracksSimple06
+    4300030: cracksSimple10
+    4300032: cracksSimple09
+    4300034: cracksSimple08
+    4300036: cracksSimple07
+    4300038: cracks07
+    4300040: cracksSimple05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

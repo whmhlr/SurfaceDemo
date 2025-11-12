@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: panel01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 366d275038cac4d44bfd360f0610d121, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setName: Panel 01
+  texture: {fileID: 2800000, guid: 371ddfb29ce7fc240ad2d64aa77379c4, type: 3}
+  textureLite: {fileID: 2800000, guid: c9f7df1a121dbe24d9fabadf97a6d521, type: 3}
+  clusters:
+  - {fileID: 11400092, guid: f0a2e54e58d845c43af481aaf923e247, type: 3}
+  - {fileID: 11400092, guid: c6daa328eb08a574cbacd6c70cd41bf3, type: 3}
+  - {fileID: 11400092, guid: a267851dc023dac45927475ac33dce53, type: 3}
+  - {fileID: 11400092, guid: dc7402ace1511df428535d7b8cd733fa, type: 3}
+  - {fileID: 11400092, guid: 9bbc84f63677cd94f871da14b0bd8a70, type: 3}
+  - {fileID: 11400092, guid: 3035e7a28570bb347bf2b888d5258995, type: 3}
+  - {fileID: 11400092, guid: 05c74925f6c1c4745b058e04a4d56435, type: 3}
+  - {fileID: 11400092, guid: c1e1c28fa13283a46becfe0028d27dc7, type: 3}
+  growMode: 1
+  haveBorder: 1
+  pattern: 0

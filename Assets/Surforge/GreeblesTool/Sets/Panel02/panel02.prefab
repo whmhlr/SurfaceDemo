@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: panel02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 366d275038cac4d44bfd360f0610d121, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setName: Panel 02
+  texture: {fileID: 2800000, guid: b792bcd57a638714ea140c551c6e2843, type: 3}
+  textureLite: {fileID: 2800000, guid: c5de8079f04a06d41b43694e4f27a42a, type: 3}
+  clusters:
+  - {fileID: 11400010, guid: 2de24323b2affb74ea18daeb96a12b17, type: 3}
+  - {fileID: 11400010, guid: 522a1f26a5c2f5846aa7dea1506e6b1a, type: 3}
+  - {fileID: 11400024, guid: edf3825395227a74ca9ae07cda3cc976, type: 3}
+  - {fileID: 11400024, guid: 0423a9151e06c3648acb61f19363f27b, type: 3}
+  - {fileID: 11400024, guid: 6cfad02c5f72e354bb1bb1ba1760c527, type: 3}
+  - {fileID: 11400024, guid: b753e177d69b6a849b41fc897393e7e5, type: 3}
+  - {fileID: 11400012, guid: cdd517e73111ad4419d9c0ec025d24c9, type: 3}
+  - {fileID: 11400012, guid: ba3a5207026592c4da81542f08e217e2, type: 3}
+  - {fileID: 11400012, guid: 9da774783d3c860419167aacc187a523, type: 3}
+  - {fileID: 11400012, guid: 81da3092ca7d1ac41814996b05e608e8, type: 3}
+  growMode: 1
+  haveBorder: 1
+  pattern: 0

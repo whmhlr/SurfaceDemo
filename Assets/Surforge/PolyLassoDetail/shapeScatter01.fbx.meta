@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 926e6eb8545e8f5458c41ef9ae6f9812
+timeCreated: 1516368772
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: branch01
+    100004: sakuraFlower01
+    100006: sakuraFlower01_inner
+    100008: sakuraFlower01_stamen
+    100010: sakuraFlower01_stamenTip
+    100012: leaf01
+    100014: scrollLeaf01
+    100016: sphereHalfM
+    100018: segment01
+    100020: centipedeLegs
+    100022: scale01
+    100024: ringRiveted
+    100026: curve01
+    100028: curve02
+    100030: ringBasic
+    400000: //RootNode
+    400002: branch01
+    400004: sakuraFlower01
+    400006: sakuraFlower01_inner
+    400008: sakuraFlower01_stamen
+    400010: sakuraFlower01_stamenTip
+    400012: leaf01
+    400014: scrollLeaf01
+    400016: sphereHalfM
+    400018: segment01
+    400020: centipedeLegs
+    400022: scale01
+    400024: ringRiveted
+    400026: curve01
+    400028: curve02
+    400030: ringBasic
+    2300000: //RootNode
+    2300002: branch01
+    2300004: sakuraFlower01
+    2300006: sakuraFlower01_inner
+    2300008: sakuraFlower01_stamen
+    2300010: sakuraFlower01_stamenTip
+    2300012: leaf01
+    2300014: scrollLeaf01
+    2300016: sphereHalfM
+    2300018: segment01
+    2300020: centipedeLegs
+    2300022: scale01
+    2300024: ringRiveted
+    2300026: curve01
+    2300028: curve02
+    2300030: ringBasic
+    3300000: //RootNode
+    3300002: branch01
+    3300004: sakuraFlower01
+    3300006: sakuraFlower01_inner
+    3300008: sakuraFlower01_stamen
+    3300010: sakuraFlower01_stamenTip
+    3300012: leaf01
+    3300014: scrollLeaf01
+    3300016: sphereHalfM
+    3300018: segment01
+    3300020: centipedeLegs
+    3300022: scale01
+    3300024: ringRiveted
+    3300026: curve01
+    3300028: curve02
+    3300030: ringBasic
+    4300000: branch01
+    4300002: sakuraFlower01_stamen
+    4300004: sakuraFlower01_stamenTip
+    4300006: sakuraFlower01_inner
+    4300008: sakuraFlower01
+    4300010: leaf01
+    4300012: scrollLeaf01
+    4300014: sphereHalfM
+    4300016: segment01
+    4300018: centipedeLegs
+    4300020: scale01
+    4300022: ringRiveted
+    4300024: curve01
+    4300026: curve02
+    4300028: ringBasic
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

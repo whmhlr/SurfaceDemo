@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 6547cd6a15733f7469ebea910b8a434d
+timeCreated: 1714085884
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beltDetail01
+    100002: beltTip01
+    100004: beltTip01Metal
+    100006: chainRect01
+    100008: //RootNode
+    100010: fastener01
+    100012: ornHalfSphere
+    100014: ornShapeS
+    100016: Test
+    100018: tipTest
+    100020: chain02
+    100022: chain03
+    100024: chainTip01
+    100026: stitch01
+    100028: stitch02
+    100030: stitch03
+    100032: stitch04
+    100034: stitch05
+    100036: stitch06
+    400000: beltDetail01
+    400002: beltTip01
+    400004: beltTip01Metal
+    400006: chainRect01
+    400008: //RootNode
+    400010: fastener01
+    400012: ornHalfSphere
+    400014: ornShapeS
+    400016: Test
+    400018: tipTest
+    400020: chain02
+    400022: chain03
+    400024: chainTip01
+    400026: stitch01
+    400028: stitch02
+    400030: stitch03
+    400032: stitch04
+    400034: stitch05
+    400036: stitch06
+    2300000: beltDetail01
+    2300002: beltTip01
+    2300004: beltTip01Metal
+    2300006: chainRect01
+    2300008: fastener01
+    2300010: ornHalfSphere
+    2300012: ornShapeS
+    2300014: Test
+    2300016: tipTest
+    2300018: chain02
+    2300020: chain03
+    2300022: chainTip01
+    2300024: stitch01
+    2300026: stitch02
+    2300028: stitch03
+    2300030: stitch04
+    2300032: stitch05
+    2300034: stitch06
+    3300000: beltDetail01
+    3300002: beltTip01
+    3300004: beltTip01Metal
+    3300006: chainRect01
+    3300008: fastener01
+    3300010: ornHalfSphere
+    3300012: ornShapeS
+    3300014: Test
+    3300016: tipTest
+    3300018: chain02
+    3300020: chain03
+    3300022: chainTip01
+    3300024: stitch01
+    3300026: stitch02
+    3300028: stitch03
+    3300030: stitch04
+    3300032: stitch05
+    3300034: stitch06
+    4300000: ornShapeS
+    4300002: beltTip01
+    4300004: chainRect01
+    4300006: ornHalfSphere
+    4300008: fastener01
+    4300010: tipTest
+    4300012: Test
+    4300014: beltDetail01
+    4300016: beltTip01Metal
+    4300018: chain02
+    4300020: chain03
+    4300022: chainTip01
+    4300024: stitch01
+    4300026: stitch02
+    4300028: stitch03
+    4300030: stitch04
+    4300032: stitch05
+    4300034: stitch06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

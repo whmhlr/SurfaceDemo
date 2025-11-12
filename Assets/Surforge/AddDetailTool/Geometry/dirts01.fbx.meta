@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 55c73711a4fcfb149b59d6051999c6c6
+timeCreated: 1618164489
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: atlasSquare01
+    100002: atlasSquare02
+    100004: atlasSquare03
+    100006: atlasSquare04
+    100008: atlasSquare05
+    100010: atlasSquare06
+    100012: atlasSquare07
+    100014: atlasSquare08
+    100016: atlasSquare09
+    100018: atlasSquare10
+    100020: atlasSquare11
+    100022: atlasSquare12
+    100024: atlasSquare13
+    100026: atlasSquare14
+    100028: atlasSquare15
+    100030: atlasSquare16
+    100032: //RootNode
+    400000: atlasSquare01
+    400002: atlasSquare02
+    400004: atlasSquare03
+    400006: atlasSquare04
+    400008: atlasSquare05
+    400010: atlasSquare06
+    400012: atlasSquare07
+    400014: atlasSquare08
+    400016: atlasSquare09
+    400018: atlasSquare10
+    400020: atlasSquare11
+    400022: atlasSquare12
+    400024: atlasSquare13
+    400026: atlasSquare14
+    400028: atlasSquare15
+    400030: atlasSquare16
+    400032: //RootNode
+    2300000: atlasSquare01
+    2300002: atlasSquare02
+    2300004: atlasSquare03
+    2300006: atlasSquare04
+    2300008: atlasSquare05
+    2300010: atlasSquare06
+    2300012: atlasSquare07
+    2300014: atlasSquare08
+    2300016: atlasSquare09
+    2300018: atlasSquare10
+    2300020: atlasSquare11
+    2300022: atlasSquare12
+    2300024: atlasSquare13
+    2300026: atlasSquare14
+    2300028: atlasSquare15
+    2300030: atlasSquare16
+    3300000: atlasSquare01
+    3300002: atlasSquare02
+    3300004: atlasSquare03
+    3300006: atlasSquare04
+    3300008: atlasSquare05
+    3300010: atlasSquare06
+    3300012: atlasSquare07
+    3300014: atlasSquare08
+    3300016: atlasSquare09
+    3300018: atlasSquare10
+    3300020: atlasSquare11
+    3300022: atlasSquare12
+    3300024: atlasSquare13
+    3300026: atlasSquare14
+    3300028: atlasSquare15
+    3300030: atlasSquare16
+    4300000: atlasSquare16
+    4300002: atlasSquare15
+    4300004: atlasSquare14
+    4300006: atlasSquare13
+    4300008: atlasSquare12
+    4300010: atlasSquare11
+    4300012: atlasSquare10
+    4300014: atlasSquare09
+    4300016: atlasSquare08
+    4300018: atlasSquare07
+    4300020: atlasSquare06
+    4300022: atlasSquare05
+    4300024: atlasSquare04
+    4300026: atlasSquare03
+    4300028: atlasSquare02
+    4300030: atlasSquare01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

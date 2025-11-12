@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: greeblesTool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aeb2c1eb1bdbb64dbb1c2d7007b468d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  packName: TextureTool
+  texture: {fileID: 2800000, guid: e86175d03b3847947b1aabd8a6eff160, type: 3}
+  sets:
+  - {fileID: 11400000, guid: b552387c49a680e41b0162955168235f, type: 3}
+  - {fileID: 11400000, guid: 0fb6763d2bdd69d479af66e2003c2e20, type: 3}
+  - {fileID: 11400000, guid: 86dd39d5e0e3e814fbf9a39ed4f24dae, type: 3}
+  - {fileID: 11400000, guid: 2f9df5c1c29698f40a2937912ac88214, type: 3}
+  - {fileID: 11400000, guid: f887a9cd571743e41b3dd6fc1b91ec01, type: 3}
+  - {fileID: 11400000, guid: c0ed234fb1478a341bcbe5a9a4f61381, type: 3}
+  - {fileID: 11400000, guid: 1b5937c2151a26146a3e4e9646edf67d, type: 3}
+  - {fileID: 11400000, guid: c9259243d0392a147b24e73103c467e4, type: 3}
+  - {fileID: 11400000, guid: f1b3ccdd72af4974db517e3bffdef126, type: 3}
+  - {fileID: 11400000, guid: dbe811dc46c358f41988df412d79f3ca, type: 3}
+  - {fileID: 11400000, guid: 95bfb1baa49862c479d11d775f272bbe, type: 3}
+  - {fileID: 11400000, guid: 1a70543fdf3ce084a82fb40b903e9bfd, type: 3}
+  - {fileID: 11400000, guid: 55bcff52e6919914fa9bc2d4db379467, type: 3}
+  - {fileID: 11400000, guid: 809cac5f10c61524a8d30fb5001b683f, type: 3}
+  - {fileID: 11400000, guid: 49d151afa036f6845a28d9eab14a436d, type: 3}

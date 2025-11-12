@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: bars
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 366d275038cac4d44bfd360f0610d121, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setName: Bars
+  texture: {fileID: 2800000, guid: 24489f1066c0a5947b5c92ccc5e0629b, type: 3}
+  textureLite: {fileID: 2800000, guid: 7f9948eca90ca974086ffa54a2ebde04, type: 3}
+  clusters:
+  - {fileID: 11400026, guid: 7f4a42a1b9b4f124f82d3d8b33aefe5b, type: 3}
+  - {fileID: 11400026, guid: d8c7821283d618e4e974b65994be4ab2, type: 3}
+  - {fileID: 11400026, guid: 915bddd025925d64b8a74e10d01a4f56, type: 3}
+  - {fileID: 11400026, guid: 046c04481751d584093039357bffea9d, type: 3}
+  - {fileID: 11400026, guid: 40343d955430a8a4d8154a9d8dc95d5d, type: 3}
+  - {fileID: 11400026, guid: 418afca796759f4419ba45c9ad8fcf03, type: 3}
+  - {fileID: 11400026, guid: 393b73955a048b14396324ed630bfc49, type: 3}
+  - {fileID: 11400026, guid: bf795d04661501d4aafa05e1a212a6a1, type: 3}
+  growMode: 1
+  haveBorder: 0
+  pattern: 0

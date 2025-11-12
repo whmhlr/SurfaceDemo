@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &142064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 429220}
+  - component: {fileID: 11496032}
+  m_Layer: 0
+  m_Name: bump_panel_greebles01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &429220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11496032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c146cd5f8bc7bbf47a866c42d3f772cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 85d0572adbb7d7144b0b2d108e7130b1, type: 3}
+  iconLite: {fileID: 2800000, guid: 800e28176ac64e14db9ae95041757211, type: 3}
+  bevelAmount: 0.33
+  bevelSteps: 1
+  offsets:
+  - -0.08
+  - -0.05
+  - 0.5
+  - 0.5
+  - 0.5
+  heights:
+  - 1
+  - 1
+  - 0.1
+  - 0
+  - -1
+  iconColor: {r: 0.56470585, g: 0.78538424, b: 1, a: 1}
+  isFloater: 0
+  isTube: 0
+  isOpen: 0
+  thickness: 0
+  section: []
+  isAdaptive: 0
+  adaptiveStep: 0
+  lengthOffsets0: []
+  lengthOffsets1: []
+  lengthOffsets2: []
+  heightOffsets0: []
+  heightOffsets1: []
+  heightOffsets2: []
+  repeatSize: 0
+  lengthOffsetOrder: 
+  heightOffsetOrder: 
+  edgeWiseOffset: 0
+  lengthWiseOffset: 0
+  offsetMinEdge: 0
+  corner: {fileID: 0}
+  childProfileVerticalOffsets: []
+  childProfileDepthOffsets: []
+  childProfileHorisontalOffsets: 
+  childProfileMatGroups: 
+  childProfileShapes: []
+  followerProfiles: []
+  followerProfileVerticalOffsets: []
+  followerProfileDepthOffsets: []
+  followerProfileMatGroups: 
+  cutoff: {fileID: 0}
+  cutoffTiling: {x: 0, y: 0}
+  bumpMap: {fileID: 2800000, guid: a214de3a9c94ae54a96ae9fd2e99d766, type: 3}
+  bumpMapIntensity: 1
+  bumpMapTiling: {x: 0.05, y: 0.05}
+  aoMap: {fileID: 2800000, guid: 84c3c72be3667d845b8f29a3f8b1ecfe, type: 3}
+  aoMapIntensity: 1.05
+  randomUvOffset: 0
+  stoneType: 0
+  allowIntersections: 0
+  overlapIntersections: 0
+  overlapAmount: 0
+  usedForOverlapping: 0
+  overlapStartInvert: 0
+  curveUVs: 0
+  isScatter: 0
+  scatterStepsX: []
+  scatterStepsZ: []
+  isChain: 0
+  isScalePattern: 0
+  chainCrossAngle: 0
+  scatterObjects: []
+  scatterObjectsScales: []
+  isShuffleScatterObjects: 0
+  scatterRandomDegrees: []
+  scatterRandomOffsets: []
+  scatterRandomScales: []
+  scatterFirstObject: {fileID: 0}
+  scatterLastObject: {fileID: 0}
+  skipFirstScatter: 0
+  skipLastScatter: 0
+  scatterTwistAngle: 0
+  isScatterRandomizeAppearance: 0
+  scatterAppearRandomSeed: 0
+  scatterAppearRandomMin: 0
+  scatterAppearRandomMax: 0
+  scatterTRSRandomSeed: 0

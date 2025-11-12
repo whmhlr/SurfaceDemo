@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: greeblesMedium01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 366d275038cac4d44bfd360f0610d121, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setName: Greebles Medium 01
+  texture: {fileID: 2800000, guid: 7f4a2650f0697a4449a38dfc6cf2236a, type: 3}
+  textureLite: {fileID: 2800000, guid: ec5dc70d55d9b594292f0f3f3efff445, type: 3}
+  clusters:
+  - {fileID: 11400006, guid: e7844d22e0671d4428f99ed142005268, type: 3}
+  - {fileID: 11400006, guid: 4e8625f5c393bd2469163f0e400bb4d2, type: 3}
+  - {fileID: 11400006, guid: 9e0a738a563254140b9e43abf6fef883, type: 3}
+  - {fileID: 11400006, guid: 3e69d2fa6ba9cc94da797d3ce3cb85fe, type: 3}
+  - {fileID: 11400006, guid: 1fa6039438671d54fa44e63a95000512, type: 3}
+  - {fileID: 11400006, guid: 55e3b988925ee3744bdf3778de566f94, type: 3}
+  - {fileID: 11400006, guid: f3dc06d8670f8a34a8507fbd189fc459, type: 3}
+  - {fileID: 11400006, guid: 46990994cd346c143b72431bef3cdbf2, type: 3}
+  - {fileID: 11400006, guid: a00ddb4a154942249b143948f0350f27, type: 3}
+  - {fileID: 11400006, guid: 62490060aaff27b4db0a56082daf4718, type: 3}
+  - {fileID: 11400006, guid: 90f9613636c8266449f305cda6642792, type: 3}
+  - {fileID: 11400006, guid: 1274a51f417fd6149b0d10ea2c73faa2, type: 3}
+  - {fileID: 11400006, guid: 1f22fe6fe7fef2c4d91ebbf2db4cf24c, type: 3}
+  growMode: 0
+  haveBorder: 0
+  pattern: 0

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &186894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422374}
+  - component: {fileID: 11405680}
+  m_Layer: 0
+  m_Name: gpuRender
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422374
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11405680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8072a9e6d9234f94fabfcbb13c14f0ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aoCaptureCameraPrefab: {fileID: 2048342, guid: 1568077439b9ead4dbeae2f6fb5c3a99,
+    type: 3}
+  normalsCaptureCameraPrefab: {fileID: 2048342, guid: 4c5a5844313d2524595a81acf3e53e92,
+    type: 3}
+  normalsCombineCameraPrefab: {fileID: 2048342, guid: c93fbe740316a4a4c9a223d8296f925a,
+    type: 3}
+  edgesCaptureCameraPrefab: {fileID: 2048342, guid: 44fa3ba12708af041941884bf2e9bdb2,
+    type: 3}
+  masksCaptureCameraPrefab: {fileID: 2048342, guid: 957f5234ad2644048bd1b8b423a2740f,
+    type: 3}
+  masks2CaptureCameraPrefab: {fileID: 2048342, guid: 0ad340514eeffca41bad3b64b278e33a,
+    type: 3}
+  combineCameraPrefab: {fileID: 2048342, guid: 0cad490604bb2db4fba64811700d52f7, type: 3}
+  emissionCaptureCameraPrefab: {fileID: 2048342, guid: 3900ad54e3bf6bf428ea93e93d1c4a19,
+    type: 3}
+  glowCaptureCameraPrefab: {fileID: 2048342, guid: 35dcb1e876643534fba4c2f323a0b1c2,
+    type: 3}
+  addGlowCameraPrefab: {fileID: 2048342, guid: c1693fee2bd98d94b8c0bb855b497af5, type: 3}
+  labelsCaptureCameraPrefab: {fileID: 2048342, guid: 368920bdb1f363543830a622249b4af2,
+    type: 3}
+  labelsAlphaCaptureCameraPrefab: {fileID: 2048342, guid: b22615ff3910f41479c27c1dd52b9277,
+    type: 3}
+  heightmapCaptureCameraPrefab: {fileID: 2048342, guid: d9ac4b61b4b6d7d4398992472d8a99f6,
+    type: 3}
+  combineLabelsAlphaCameraPrefab: {fileID: 2048342, guid: 0b202b9af9a0a5545ac84058c68b5006,
+    type: 3}
+  combineNoiseCameraPrefab: {fileID: 2048342, guid: 60aa317169028d843b7f66d54536a0bd,
+    type: 3}
+  floatersMaskCaptureCameraPrefab: {fileID: 2048342, guid: ed6c21fce32227248be0b90a7d64dcc4,
+    type: 3}
+  ssaoFloatersMaskCaptureCameraPrefab: {fileID: 2048342, guid: 46a407e5c6f32a7409fb4c12de6c2e91,
+    type: 3}
+  ssaoCaptureCameraPrefab: {fileID: 2048342, guid: aac55ae7031b1ed4e822f047b9a834a4,
+    type: 3}
+  aoCapture: {fileID: 4800000, guid: 1851db113b9b8f441a15ad6c47231cfc, type: 3}
+  aoCaptureFloater: {fileID: 4800000, guid: 5a6475b45242b2f4f9023215f91a1da2, type: 3}
+  normalmapCapture: {fileID: 4800000, guid: 3ab7bc6ad91d0334eb467890ef7d11a3, type: 3}
+  masksCapture: {fileID: 4800000, guid: 74c5f4c143a42f442868e2fd236901c0, type: 3}
+  emissionCapture: {fileID: 4800000, guid: b85fb16b0a6c29042a1a362c5a8ce678, type: 3}
+  labelsCapture: {fileID: 4800000, guid: aa0ade8b907c7394ea4bd4591406448e, type: 3}
+  labelsAlphaCapture: {fileID: 4800000, guid: 285cb0b7a86da77439b125552ac229f4, type: 3}
+  heightmapCapture: {fileID: 4800000, guid: 66d6bba3b50e6244ba67565c57770d50, type: 3}
+  floatersMaskCapture: {fileID: 4800000, guid: 49c38397de66a334bb7d1b936e5ddbb9, type: 3}
+  ssaoCapture: {fileID: 4800000, guid: 9560811e614b9704eb2e6a432821cbf7, type: 3}
+  ssaoCaptureFloater: {fileID: 4800000, guid: d7a22206eae32994b80916bdf6d3dc03, type: 3}
+  aoLightsPrefab: {fileID: 195084, guid: a9f88379cd265fe48ba8eceb12ce7023, type: 3}
+  aoLightsPrefabDx11: {fileID: 195084, guid: 3abb26887a07f0e45a96a4888f8b0a6c, type: 3}
+  aoLightsPrefabLinear: {fileID: 195084, guid: 238dbdde871003e4ca49a560644fb317, type: 3}
+  aoLightsPrefabDx11Linear: {fileID: 195084, guid: c3eedbea64dde384fb699e6dbfae9f03,
+    type: 3}
+  aoLightsPrefabHigh: {fileID: 1000011041540060, guid: 887da9648f5255d49a7ee8c2af124ebf,
+    type: 3}
+  aoLightsPrefabDx11High: {fileID: 1000011041540060, guid: dfea94ddffb6e7d48bf9f97ad32cd321,
+    type: 3}
+  aoLightsPrefabLinearHigh: {fileID: 1000011041540060, guid: 693cb85e48dfe2549aeac580d5eafaf8,
+    type: 3}
+  aoLightsPrefabDx11LinearHigh: {fileID: 1000011041540060, guid: 18d323155a2552744a85a99e3362a04c,
+    type: 3}
+  edgesCapturePost: {fileID: 4800000, guid: 874175ce547170d498cbbc45fc8cb47f, type: 3}

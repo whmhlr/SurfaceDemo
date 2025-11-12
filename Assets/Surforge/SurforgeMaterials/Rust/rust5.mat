@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: rust5
+  m_Shader: {fileID: 4800000, guid: a35ee6d2e5af9da49a52d43e7e2ab16c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _0Paint1MaskTex:
+        m_Texture: {fileID: 2800000, guid: 23e752c6bc7c7ff4e88e4d24fc98e32d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _0Paint2MaskTex:
+        m_Texture: {fileID: 2800000, guid: 5d9ea9312ca7d6144a62f73e801c9ebb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AoEdgesDirtDepth:
+        m_Texture: {fileID: 2800000, guid: ae0fcc70d7a97604db1d13c5228a99dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap0:
+        m_Texture: {fileID: 2800000, guid: 160bd68cb6687544fb43e2d9e85efb4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirtTexture1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirtTexture2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMask:
+        m_Texture: {fileID: 2800000, guid: 6efaca9dc8a78474394710dd4f9a0adb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LabelAlpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LabelTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ObjectMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ObjectMasks2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RGBAnoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 23e752c6bc7c7ff4e88e4d24fc98e32d, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _0AlbedoIntensity: 1
+    - _0AlbedoTransparency: 0
+    - _0EmissionIntensity: 1
+    - _0GlobalTransparency: 0
+    - _0GlossinessBrightness: 0.478
+    - _0GlossinessContrast: 0.632
+    - _0MAlbedoIntensity: 0.207
+    - _0MaterialRotation: 0
+    - _0Paint1Glossiness: 0.53
+    - _0Paint1Intensity: 0.587
+    - _0Paint1Metallic: 0.977
+    - _0Paint1Specular: 0.181
+    - _0Paint1Transparency: 0
+    - _0Paint2Glossiness: 0
+    - _0Paint2Intensity: 1
+    - _0Paint2Metallic: 0.954
+    - _0Paint2Specular: 0
+    - _0Paint2Transparency: 0
+    - _0SpecularBrightness: 0.356
+    - _0SpecularContrast: 0.537
+    - _0UnderlyingDiffuse: 1
+    - _0UnderlyingGlossiness: 1
+    - _0UnderlyingMetallic: 1
+    - _0UnderlyingSpecular: 1
+    - _0WornEdgesAmount: 0.3
+    - _0WornEdgesBorder: 0
+    - _0WornEdgesContrast: 1
+    - _0WornEdgesOpacity: 0
+    - _1EmissionIntensity: 1
+    - _2EmissionIntensity: 1
+    - _Brightness: 0.5
+    - _BumpMapStrength0: 0.4
+    - _Contrast: 0.5
+    - _Cutoff: 0
+    - _Dirt1Amount: 0
+    - _Dirt1Contrast: 2
+    - _Dirt1Opacity: 1
+    - _Dirt2Amount: 0
+    - _Dirt2Contrast: 2
+    - _Dirt2Opacity: 1
+    - _EmissionMapIntensity0: 1
+    - _GlobalScale: 1
+    - _Glossiness0: 0.935
+    - _GlossinessFromAlpha0: 1
+    - _GlossinessIntensity0: 0.007
+    - _Hue: 0
+    - _LabelGlossiness: 0.843
+    - _LabelSpecularIntensity: 0.136
+    - _LinearColorSpace: 0
+    - _Metallic0: 1
+    - _NormalsStrength0: -0.05
+    - _OcclusionMapStrength0: 1
+    - _Saturation: 0.5
+    - _SpecularIntensity0: 0.048
+    - _UseSpecularMap0: 0
+    - _gamma: 1
+    - _glossMax: 1
+    - _glossMin: 0
+    - _maxInput: 1
+    - _maxOutput: 1
+    - _minInput: 0
+    - _minOutput: 0
+    - _specMax: 1
+    - _specMin: 0
+    m_Colors:
+    - _0EmissionTint: {r: 1, g: 1, b: 1, a: 1}
+    - _0MUnderlyingDiffuseTint: {r: 1, g: 1, b: 1, a: 1}
+    - _0Paint1Color: {r: 0.20899999, g: 0.085272, b: 0, a: 1}
+    - _0Paint1MColor: {r: 0.20784315, g: 0.08627451, b: 0, a: 1}
+    - _0Paint1NoiseMix: {r: -0.92, g: 0.47, b: 0.6, a: 0.88}
+    - _0Paint2Color: {r: 0.391, g: 0.138414, b: 0, a: 1}
+    - _0Paint2MColor: {r: 0.3921569, g: 0.13725491, b: 0, a: 1}
+    - _0Paint2NoiseMix: {r: 0, g: 0, b: 0, a: 0}
+    - _0UnderlyingDiffuseTint: {r: 0, g: 0, b: 0, a: 1}
+    - _0UnderlyingSpecularTint: {r: 1, g: 1, b: 1, a: 1}
+    - _0WornEdgesBorderTint: {r: 0, g: 0, b: 0, a: 1}
+    - _0WornEdgesNoiseMix: {r: 0, g: 0, b: 0, a: 1}
+    - _1EmissionTint: {r: 1, g: 1, b: 1, a: 1}
+    - _2EmissionTint: {r: 1, g: 1, b: 1, a: 1}
+    - _Dirt1Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _Dirt2Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _DirtNoise1Mix: {r: 1, g: 0.5, b: 0, a: 0}
+    - _DirtNoise2Mix: {r: 1, g: 0.5, b: 0, a: 0}
+    - _EmissionMapTint0: {r: 0, g: 0, b: 0, a: 1}
+    - _LabelTint: {r: 1, g: 1, b: 1, a: 1}
+    - _MTint0: {r: 0.59607846, g: 0.57254905, b: 0.49411768, a: 1}
+    - _SpecularTint0: {r: 0.816, g: 0.8135601, b: 0.76296, a: 1}
+    - _Tint0: {r: 0.178, g: 0.070488, b: 0, a: 1}

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: greeblesGrowing01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 366d275038cac4d44bfd360f0610d121, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setName: Greebles Growing 01
+  texture: {fileID: 2800000, guid: fa35d519bb39c7d4cbb3afc130e838ae, type: 3}
+  textureLite: {fileID: 2800000, guid: f49303c55e66dab469ccccc59f2f66f5, type: 3}
+  clusters:
+  - {fileID: 11400006, guid: c0d43b053e64ddb4b9cf1e780b1ff8af, type: 3}
+  - {fileID: 11400006, guid: 5afe8d4ea5014044e94e947e5cd2279f, type: 3}
+  - {fileID: 11400006, guid: 36aa82d94928793449bffc3dce9af0f9, type: 3}
+  - {fileID: 11400006, guid: e0f7f094b36d7214280f0b4d51b736b2, type: 3}
+  - {fileID: 11400006, guid: 13a29d2bf54f2924f89dd2494ebc69b6, type: 3}
+  - {fileID: 11400006, guid: 3b93ba7e16124b143b4a16d348d88407, type: 3}
+  - {fileID: 11400006, guid: 45673a24375f2284287befa6f69bc448, type: 3}
+  - {fileID: 11400002, guid: a6d8e8a5c6579e04eafbf1fc0648c4c9, type: 3}
+  - {fileID: 11400002, guid: fa815d9c98810ff43958b4fd82b3281f, type: 3}
+  - {fileID: 11400002, guid: b7c01a31e2d1b154b9f43342ba76b5b1, type: 3}
+  - {fileID: 11400002, guid: fd010e165d8b65e43a9fc3617062ca46, type: 3}
+  - {fileID: 11400002, guid: 0645cadb456135542a5d81478922b479, type: 3}
+  - {fileID: 11400002, guid: 52d6876606f85794fa7a0d53b7925cfd, type: 3}
+  - {fileID: 11400002, guid: 3f2c0c4603b29e84799e1c7a79592c41, type: 3}
+  - {fileID: 11400002, guid: 55d28f15c8ba84740b61ff6a61307cd8, type: 3}
+  - {fileID: 11400006, guid: 6db189e8c470ccf44a247636ef958c69, type: 3}
+  - {fileID: 11400006, guid: 900c81419940b434ea642d024b2b5a76, type: 3}
+  - {fileID: 11400006, guid: 89ef8e7bbafdee648bf54ec081f167ce, type: 3}
+  - {fileID: 11400006, guid: af066eef8e54e4448a5b9eb524fa382f, type: 3}
+  growMode: 1
+  haveBorder: 0
+  pattern: 0
